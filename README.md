@@ -27,9 +27,14 @@ Inspirado no Letterboxd, o Penvie permitirá que usuários:
 
 ## ✨ Sobre nós
 
-Este projeto é um com objetivo de aprender, criar e nos divertir juntos durante o processo 💙
+Este projeto é um meio de aprendizado, criação e diversão em casal 💙  
+A Hellen cuida do design e eu fico com a programação — juntos damos vida ao Penvie!
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).  
+Você pode copiar, modificar e compartilhar, desde que **dê os devidos créditos**, **não use para fins comerciais** e **indique se alterações foram feitas**.
 
 ---
 
 📌 **Quer contribuir ou deixar uma ideia?** Sinta-se à vontade para abrir uma issue ou entrar em contato!
-
